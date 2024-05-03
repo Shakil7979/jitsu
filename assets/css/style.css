@@ -219,9 +219,9 @@ p {
 }
  
 
-.family_qoute_ttile { 
+.family_qoute_ttile {
 	text-align: center;
-	width: 80%;
+	width: 83%;
 	margin: 104px auto 0 auto;
 }
 
@@ -236,7 +236,170 @@ p {
 	padding-bottom: 196px;
 }
 
+.personal_area{
+	padding: 100px 0;
+	background: #0D1D44;
+	position: relative;
+}
 
+.section_title h3 {
+	font-size: 35px;
+	color: #fff;
+	text-align: center;
+	font-family: "Source Sans 3", sans-serif;
+}
+
+.section_title img {
+	width: 357px;
+	margin-top: 21px;
+}
+
+.section_title {
+	text-align: center;
+	width: 80%;
+	margin: 0 auto 57px auto;
+}
+
+.personal_img img {
+	width: 100%;
+}
+
+.personal_text p {
+	color: #fff;
+	font-size: 24px;
+	font-weight: 500;
+}
+
+.personal_text span {
+	font-weight: 600;
+	font-size: 24px;
+	color: #09B238;
+	margin-top: 25px;
+	display: inline-block;
+}
+
+.family_qoute_ttile.personal_qoute_title {
+	width: 100%;
+}
+
+.personal_btn {
+	display: inline-block;
+	position: absolute;
+	bottom: -55px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	text-align: center;
+	width: 424px;
+}
+
+.personal_btn img {
+	width: 417px;
+}
+
+.personal_btn p {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 600;
+	position: absolute;
+	top: 25px;
+	text-align: center;
+	left: 0;
+	right: 0;
+}
+
+.personal_btn span {
+	font-size: 20px;
+	color: #fff;
+	font-weight: 600;
+	position: absolute;
+	top: 72px;
+	right: -30px;
+	left: 0;
+	text-align: center;
+}
+
+.section_padding{
+	padding: 100px 0;
+}
+
+.self_area{
+	background-color: #000;
+}
+
+.selft_title {
+	background: #CECECE; 
+	text-align: center;
+	border-radius: 12px;
+}
+
+.selft_title h4 {
+	font-size: 35px; 
+	font-weight: 700;
+	line-height: 0;
+	padding: 20px 0;
+	line-height: 28px;
+	font-family: "Source Sans 3", sans-serif;
+}
+
+.self_content p {
+	font-size: 24px;
+	font-weight: 700;
+	margin-top: 27px;
+	text-align: center;
+	color: #fff;
+}
+
+.red_color {
+	color: #FF0000;
+}
+
+.self_content h3 {
+	font-size: 35px;
+	font-weight: 700;
+	text-align: center;
+	margin: 40px 0 20px 0;
+	color: #fff;
+}
+
+.self_content h4 {
+	font-size: 40px;
+	font-weight: 800;
+	text-align: center;
+}
+
+.self_danger_alert {
+	background: #931F1D;
+	padding: 24px;
+	display: flex;
+	gap: 15px;
+	align-items: flex-start;
+	margin-top: 25px;
+}
+
+.self_danger_alert img {
+	width: 94px;
+	flex: 0 0 94px;
+}
+
+.self_danger_alert p {
+	font-size: 50px;
+	color: #fff;
+	font-weight: 800;
+	line-height: 55px;
+}
+
+.rise_area{
+	background-color: #122962;
+}
+
+.section_title h3 span {
+	color: #00FF5D;
+}
+
+.rise_area .section_title img {
+	width: 200px; 
+}
 
 /*========  End Page  ==========*/
 
