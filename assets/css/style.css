@@ -345,7 +345,7 @@ p {
 .self_content p {
 	font-size: 24px;
 	font-weight: 700;
-	margin-top: 27px;
+	margin-top: 40px;
 	text-align: center;
 	color: #fff;
 }
@@ -391,6 +391,7 @@ p {
 
 .rise_area{
 	background-color: #122962;
+	position: relative;
 }
 
 .section_title h3 span {
@@ -399,6 +400,79 @@ p {
 
 .rise_area .section_title img {
 	width: 200px; 
+}
+
+.rise_content > p {
+	color: #fff;
+	font-size: 21px;
+	font-weight: 500;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.rise_content h4 {
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+	font-weight: 700;
+	margin-bottom: 95px;
+	font-family: "Source Sans 3", sans-serif;
+}
+
+.single_rise_item img {
+	width: 112px;
+}
+
+.single_rise_item p {
+	color: #fff;
+	font-size: 17px;
+	font-weight: 600;
+	line-height: 26px;
+	width: 100%;
+	max-width: 368px;
+}
+
+.green_color {
+	color: #00FF5D;
+}
+
+.single_rise_item {
+	display: flex;
+	align-items: flex-start;
+	gap: 26px;
+	margin-bottom: 60px;
+}
+
+.green_bold_font{
+	font-size: 26px;
+	font-weight: 600;
+}
+
+.self_content h4 {
+	font-size: 40px;
+	color: #fff;
+	font-weight: 700;
+	margin-top: 25px;
+}
+
+.self_content h6 {
+	font-size: 35px;
+	font-weight: 600; 
+	color: #fff;
+	text-align: center;
+	margin: 25px 0;
+}
+
+.red_color {
+	color: #FF0000 !important;
+}
+
+.self_history img {
+	width: 100%;
+}
+
+.self_area{
+	position: relative;
 }
 
 /*========  End Page  ==========*/
