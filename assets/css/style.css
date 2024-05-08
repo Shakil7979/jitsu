@@ -831,6 +831,101 @@ p {
 	transform: rotate(-45deg);
 }
 
+.footer_area {
+	background: #122962;
+}
+
+.footer_logo img {
+	width: 173px;
+	margin-bottom: 28px;
+}
+
+.footer_logo ul li a {
+	font-size: 24px;
+	color: #fff;
+	font-weight: 500;
+}
+
+.footer_logo ul li a i {
+	color: #00FF5D;
+	margin-right: 5px;
+}
+
+.footer_logo ul li {
+	margin-bottom: 8px;
+}
+
+.footer_menu_title h4 {
+	font-size: 30px;
+	font-weight: 500;
+	color: #fff;
+}
+
+.footer_menu_title img {
+	width: 76px;
+}
+
+.footer_subscribe h3 {
+	font-size: 24px;
+	font-weight: 600;
+	color: #fff;
+	margin-bottom: 22px;
+}
+
+.footer_sub_input input {
+	width: 100%;
+	height: 43px;
+	border: none;
+	border-radius: 30px;
+	padding: 0 18px;
+}
+
+.footer_sub_input {
+	position: relative;
+	width: 273px;
+}
+
+.footer_sub_input button {
+	background: linear-gradient(90deg, rgba(249,83,11,1) 0%, rgba(255,144,5,1) 100%);
+	border: none;
+	width: 114px;
+	height: 32px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 30px;
+	font-size: 18px;
+	font-weight: 500;
+	color: #fff;
+	position: absolute;
+	top: 0;
+	right: 8px;
+	bottom: 0;
+	transition: 0.3s;
+	margin: auto;
+}
+
+.footer_sub_input button:hover {
+	opacity: 0.83;
+}
+
+.footer_subscribe ul li p {
+	font-size: 24px;
+	font-weight: 500;
+	color: #fff;
+}
+
+.footer_subscribe ul li a i {
+	color: #00FF5D;
+	font-size: 32px;
+}
+
+.footer_subscribe ul {
+	display: flex;
+	gap: 12px;
+	margin-top: 52px;
+}
+
 
 /*========  End Page  ==========*/
 
