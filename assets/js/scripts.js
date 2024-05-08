@@ -1,20 +1,21 @@
-$(document).ready(function(){
-	// Mobile Menu
-	// $('.logo a i').click(function(){
-	// 	$('.menu ul').slideToggle(1000);
-
-	// 	return false
-	// });
-
+$(document).ready(function(){ 
 	// Banner Carousel
-	// $('.banner_carousel').owlCarousel({
-	// 	items:1,
-	// 	loop:true,
-	// 	nav:true,
-	// 	dots:true,
-	// 	autoplay:true,
-	// });
+	$('.testimonial_area_carousel').owlCarousel({
+		items:3.4,
+		loop:true,
+		nav:true,
+		dots:true,
+		center: true,
+		margin: 20, 
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+		navText: ["<img src='assets/images/testi/left.png'>","<img src='assets/images/testi/right.png'>"]
+		// autoplay:true,
+	}); 
+	
+	
 
+	
 
 
 
