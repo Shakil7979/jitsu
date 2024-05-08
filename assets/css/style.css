@@ -827,6 +827,10 @@ p {
 	margin-right: 9px;
 }
 
+.btn_1 i {
+	transform: rotate(-45deg);
+}
+
 
 /*========  End Page  ==========*/
 
