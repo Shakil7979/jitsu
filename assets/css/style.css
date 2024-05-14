@@ -86,6 +86,28 @@ ul li a,a{
 	width: 100%;
 }
 
+.banner_area{
+	position: relative;
+
+}
+.personal_btn.banner_btn img {
+	width: 306px;
+}
+
+.personal_btn.banner_btn p { 
+	top: 13px; 
+}
+
+.personal_btn.banner_btn span { 
+	top: 51px; 
+	right: -35px;
+	font-size: 16px;
+}
+
+.personal_btn.banner_btn { 
+	bottom: 50px; 
+}
+
 .modern_area {
 	padding: 40px 0;
 	background: #000;
@@ -256,7 +278,7 @@ p {
 
 .section_title {
 	text-align: center;
-	width: 80%;
+	width: 99%;
 	margin: 0 auto 57px auto;
 }
 
